@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MattBallek]]></title>
+        <description><![CDATA[MattBallek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 15:31:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Launching a Free Product]]></title>
+            <description><![CDATA[<article><h1>Launching a Free Product</h1><p>I've been working on a series of basic training videos for my consultancy VIDISEO. The series consists of 17 individual video courses. The experience of creating the content has been rewarding, but as I now weave each corse into a new page on my website I realize that every change I make is now a change I have to make 17 different times.</p></article>]]></description>
+            <link>undefinedlaunching-a-free-product/index.html</link>
+            <guid isPermaLink="false">f8a06fc0-1bcc-4e09-9d45-db753b7ad035</guid>
+            <pubDate>Thu, 17 Dec 2015 15:31:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
